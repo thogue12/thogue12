@@ -27,12 +27,12 @@ I'm actively expanding my skills in the following areas to grow as a Platform an
 - Kubernetes (K8s) fundamentals and GitOps with Argo CD or Flux
 - OPA & Rego for policy-as-code enforcement
 - Secrets management with HashiCorp Vault, Azure Key Vault, and AWS SSM Parameter Store
-- Supply chain security (SBOMs, image signing with Cosign/Sigstore)
 - Cloud-native security scanning with tools like Checkov and Snyk
 - Admission Controllers and runtime policy enforcement for Kubernetes
 - Monitoring and alerting with Prometheus, Grafana, and Cloud Watch
 - Event-driven automation and CI/CD pipeline design with GitHub Actions
 - Internal Developer Platforms with Backstage and self-service workflows
+- Python Scripting
 
 ---
 
