@@ -38,7 +38,7 @@ Reusable Azure platform infrastructure with Terraform and GitHub Actions automat
 ### [Multi-Cloud-VPN](https://github.com/thogue12/Multi-CloudVPN)  
 A multi-cloud VPN connecting AWS and Azure, enabling secure cross-cloud communication with Terraform modules and tested workloads.
 
-### [Multi-Cloud-Networking-Module] (https://github.com/thogue12/Multi-Cloud-Networking-Module)  
+### [Multi-Cloud-Networking-Module](https://github.com/thogue12/Multi-Cloud-Networking-Module)  
 A library of Terraform modules to create scalable and secure multi-cloud networking architectures with DevSecOps pipelines.
 
 ---
