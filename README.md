@@ -66,8 +66,12 @@ In this project i will be codifying the Azure DevOps pipeline using terraform.
 
 ---
 
-My Github Metric
+### My Github Metric
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thogue12&theme=aura_dark) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thogue12&theme=aura_dark).  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thogue12&theme=aura_dark) 
+                                                                                                                    
 
 ## 📫 How to Reach Me
 
