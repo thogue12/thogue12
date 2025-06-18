@@ -41,8 +41,8 @@ A multi-cloud VPN connecting AWS and Azure, enabling secure cross-cloud communic
 ### [Multi-Cloud-Networking-Module](https://github.com/thogue12/Multi-Cloud-Networking-Module)  
 A library of Terraform modules to create scalable and secure multi-cloud networking architectures with DevSecOps pipelines.
 
-### [azure-devsecops-pipeline](https://github.com/thogue12/azure-devsecops-pipeline/tree/testing/terraform)
-
+### [Azure-devsecops-pipeline](https://github.com/thogue12/azure-devsecops-pipeline/tree/testing/terraform)
+In this project i will be codifying the Azure DevOps pipeline using terraform.
 ---
 
 ## 📫 How to Reach Me
