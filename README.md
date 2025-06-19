@@ -79,7 +79,7 @@ In this project i will be codifying the Azure DevOps pipeline using terraform.
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN]https://www.linkedin.com/in/timothy-hogue-2b2722230/
+- LinkedIn: [(https://www.linkedin.com/in/timothy-hogue-2b2722230/)]
 - Email: Hoguetimothy12@gmail.com
 
 ---
