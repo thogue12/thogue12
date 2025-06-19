@@ -74,7 +74,7 @@ In this project i will be codifying the Azure DevOps pipeline using terraform.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thogue12&theme=aura_dark)               ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thogue12&theme=aura_dark) 
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=thogue12)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=thogue12)](https://git.io/streak-stats&theme=dark)
                                                                                                                     
 
 ## 📫 How to Reach Me
