@@ -1,6 +1,6 @@
 # Hi, I'm Timothy 👋
 
-I'm an **Aspiring Platform Engineer** passionate about **multi-cloud architecture**, **infrastructure as code (IaC)**, and **DevSecOps** automation. I'm actively building new projects that challenge me and help me develop new skills so I can continuously grow and learn. My focus is on creating scalable, secure, and reusable cloud platforms mainly on **AWS** and **Azure** as I prepare for the next step in my career.
+I'm an **Platform Engineer** passionate about **multi-cloud architecture**, **infrastructure as code (IaC)**, and **DevSecOps** automation. I'm actively building new projects that challenge me and help me develop new skills so I can continuously grow and learn. My focus is on creating scalable, secure, and reusable cloud platforms mainly on **AWS** and **Azure** as I prepare for the next step in my career.
 
 ---
 
